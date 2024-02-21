@@ -32,4 +32,4 @@ class Messenger(Plugin):
         pass
 
     def help(self, **kwargs) -> str:
-        return "负责转发群聊消息的传令兵'。"
+        return "负责转发群聊消息的传令兵"
