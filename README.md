@@ -8,7 +8,7 @@
 在 `plugins/source.json` 文件中添加以下配置：
 ```
 {
-  "daily_news": {
+  "messenger": {
     "repo": "https://github.com/lepingzhang/messenger.git",
     "desc": "负责转发群聊消息的传令兵"
   }
